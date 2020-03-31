@@ -20,7 +20,10 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 23,
-    }
+    },
+    title: {
+        
+    },
 });
 
 export default Header;
